@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KaratechJudge</string>
+    <string name="score">0:0</string>
+    <string name="testPort">port</string>
+    <string name="button">Следующий раунд</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="ip_hint_text_input">IP адресс сервера</string>
+    <string name="ip_default_text_input">192.168.1.100</string>
+    <string name="button_join">Войти как судья</string>
+    <string name="name_home_page">Karatech\nJudge</string>
+</resources>
